@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/base-apparel/static/css/main.1b86ce39.css",
+    "main.js": "/base-apparel/static/js/main.94293805.js",
+    "static/media/hero-desktop.jpg": "/base-apparel/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/JosefinSans-SemiBold.ttf": "/base-apparel/static/media/JosefinSans-SemiBold.2e34db3490edd3889c75.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/base-apparel/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
+    "static/media/JosefinSans-Light.ttf": "/base-apparel/static/media/JosefinSans-Light.c61c964657466399c9d2.ttf",
+    "static/media/hero-mobile.jpg": "/base-apparel/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "static/media/logo.svg": "/base-apparel/static/media/logo.bfe35add16fb8c010b0231ce711541c6.svg",
+    "static/media/bg-pattern-desktop.svg": "/base-apparel/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
+    "index.html": "/base-apparel/index.html",
+    "static/media/icon-error.svg": "/base-apparel/static/media/icon-error.77009af74a9c193a398a.svg",
+    "static/media/icon-arrow.svg": "/base-apparel/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
+    "main.1b86ce39.css.map": "/base-apparel/static/css/main.1b86ce39.css.map",
+    "main.94293805.js.map": "/base-apparel/static/js/main.94293805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b86ce39.css",
+    "static/js/main.94293805.js"
+  ]
+}
